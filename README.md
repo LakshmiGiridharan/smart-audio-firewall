@@ -5,8 +5,7 @@ A Streamlit app that analyzes or records audio to detect sensitive content.
 **System Architechture**
 
 
-
-    ![image](https://github.com/user-attachments/assets/5defdbb6-3437-4a23-b6f8-6b197abda599)
+![image](https://github.com/user-attachments/assets/5defdbb6-3437-4a23-b6f8-6b197abda599)
 
 
 
