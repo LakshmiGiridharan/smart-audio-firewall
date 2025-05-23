@@ -1,0 +1,22 @@
+🔊 SMART AUDIO FIREWALL REPORT
+
+=== Summary of Red Flags ===
+🕒 15.52-18.88: sensitive topic detected (semantic match)
+🕒 18.88-28.00: flagged keywords → data leak
+
+
+=== Redacted Transcript ===
+Finally, the CFO shared financial updates, highlighting investment losses, stock market fluctuations, rising debt, and a risk of bankruptcy or fraud. There was even mention of a scam targeting employee emails. We were warned to protect our credentials and watch out for hacking, phishing, security breaches, and potential data leaks.
+
+
+=== Flagged Segments ===
+🕒 15.52-18.88 — [WARNING] We were warned to protect our credentials and watch out for hacking,
+🕒 18.88-28.00 — [WARNING] phishing, security breaches, and potential data leaks.
+
+
+=== Full Transcript ===
+0.00–6.56: Finally, the CFO shared financial updates, highlighting investment losses,
+6.56–11.12: stock market fluctuations, rising debt, and a risk of bankruptcy or fraud.
+11.68–15.52: There was even mention of a scam targeting employee emails.
+15.52–18.88: We were warned to protect our credentials and watch out for hacking,
+18.88–28.00: phishing, security breaches, and potential data leaks.
