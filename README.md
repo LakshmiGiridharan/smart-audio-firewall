@@ -8,6 +8,8 @@ A Streamlit app that analyzes or records audio to detect sensitive content.
 
     ![image](https://github.com/user-attachments/assets/5defdbb6-3437-4a23-b6f8-6b197abda599)
 
+
+
 **System Flow**
 launch_audio_firewall.sh: Bootstraps environment and launches Streamlit app
 
