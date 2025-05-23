@@ -28,6 +28,7 @@ A Streamlit app that analyzes or records audio to detect sensitive content.
 5. **Launch the app**  
    ```bash
    ./launch_audio_firewall.sh
+   (if windows then use) ./launch_audio_firewall.bat
    ```
 
 6. **Usage**  
