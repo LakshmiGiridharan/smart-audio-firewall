@@ -1,0 +1,9 @@
+streamlit
+sounddevice
+scipy
+torch
+transformers
+sentence-transformers
+faster-whisper
+pydub
+transformers
